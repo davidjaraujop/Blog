@@ -7,5 +7,9 @@ body
 }
 title{
     color: chartreuse;
->>>>>>> cabecera
+}
+
+#footer {
+    color: black;
+    text-align: center;
 }
